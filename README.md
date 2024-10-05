@@ -74,6 +74,6 @@ sudo ./user_management.sh users.txt
 ## Author
 
 **Akash Nawin**  
-GitHub: [your-github-link](https://github.com/arakashnawin)
+GitHub: [https://github.com/arakashnawin](https://github.com/arakashnawin)
 
 ---
